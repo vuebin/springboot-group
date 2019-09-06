@@ -1,0 +1,15 @@
+spring:
+  servlet:
+    multipart:
+      max-request-size: 100MB
+      max-file-size: 100MB
+server:
+  port: 80
+sftp:
+  serverDir: /data1/zhdj/
+  filePath: image/
+  host: 221.204.170.190
+  port: 22
+  username: root
+  password: '!YFYZapp1@20'
+  prefix: http://221.204.170.190:8082/zhdj/

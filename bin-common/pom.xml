@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>springboot-group</artifactId>
+        <groupId>com.vuebin</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>bin-common</artifactId>
+    <packaging>pom</packaging>
+    <description>bin-common公共项目模块</description>
+    <modules>
+        <module>model-support</module>
+        <module>generator-support</module>
+        <module>kernel-core</module>
+        <module>bin-sftp</module>
+    </modules>
+
+
+</project>

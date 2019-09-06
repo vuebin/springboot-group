@@ -1,0 +1,6 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.vuebin.common.core.config.JwtAutoConfiguration,\
+com.vuebin.common.core.config.ValidatorAutoConfiguration,\
+com.vuebin.common.core.config.AopAutoConfiguration,\
+com.vuebin.common.core.config.RedisConfiguration,\
+com.vuebin.common.core.config.UtilAutoConfiguration

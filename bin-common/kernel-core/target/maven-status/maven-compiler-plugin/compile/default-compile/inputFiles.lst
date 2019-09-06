@@ -1,0 +1,17 @@
+D:\Program Files\project\binbin\springboot-group\bin-common\kernel-core\src\main\java\com\vuebin\common\core\config\ValidatorAutoConfiguration.java
+D:\Program Files\project\binbin\springboot-group\bin-common\kernel-core\src\main\java\com\vuebin\common\core\config\RedisConfiguration.java
+D:\Program Files\project\binbin\springboot-group\bin-common\kernel-core\src\main\java\com\vuebin\common\core\config\JwtAutoConfiguration.java
+D:\Program Files\project\binbin\springboot-group\bin-common\kernel-core\src\main\java\com\vuebin\common\core\aop\ParamValidateAop.java
+D:\Program Files\project\binbin\springboot-group\bin-common\kernel-core\src\main\java\com\vuebin\common\core\exception\GlobalExceptionHandler.java
+D:\Program Files\project\binbin\springboot-group\bin-common\kernel-core\src\main\java\com\vuebin\common\core\util\Md5Util.java
+D:\Program Files\project\binbin\springboot-group\bin-common\kernel-core\src\main\java\com\vuebin\common\core\context\LoginUser.java
+D:\Program Files\project\binbin\springboot-group\bin-common\kernel-core\src\main\java\com\vuebin\common\core\properties\JwtProperties.java
+D:\Program Files\project\binbin\springboot-group\bin-common\kernel-core\src\main\java\com\vuebin\common\core\util\HttpContextUtil.java
+D:\Program Files\project\binbin\springboot-group\bin-common\kernel-core\src\main\java\com\vuebin\common\core\service\RedisService.java
+D:\Program Files\project\binbin\springboot-group\bin-common\kernel-core\src\main\java\com\vuebin\common\core\context\LoginContext.java
+D:\Program Files\project\binbin\springboot-group\bin-common\kernel-core\src\main\java\com\vuebin\common\core\config\AopAutoConfiguration.java
+D:\Program Files\project\binbin\springboot-group\bin-common\kernel-core\src\main\java\com\vuebin\common\core\annotation\ParamValidator.java
+D:\Program Files\project\binbin\springboot-group\bin-common\kernel-core\src\main\java\com\vuebin\common\core\factory\IocBeanFactory.java
+D:\Program Files\project\binbin\springboot-group\bin-common\kernel-core\src\main\java\com\vuebin\common\core\util\JwtTokenUtil.java
+D:\Program Files\project\binbin\springboot-group\bin-common\kernel-core\src\main\java\com\vuebin\common\core\util\CheckUtil.java
+D:\Program Files\project\binbin\springboot-group\bin-common\kernel-core\src\main\java\com\vuebin\common\core\util\ValidateUtil.java

@@ -1,0 +1,16 @@
+com\vuebin\common\core\util\HttpContextUtil.class
+com\vuebin\common\core\config\AopAutoConfiguration.class
+com\vuebin\common\core\config\ValidatorAutoConfiguration.class
+com\vuebin\common\core\util\Md5Util.class
+com\vuebin\common\core\util\JwtTokenUtil.class
+com\vuebin\common\core\annotation\ParamValidator.class
+com\vuebin\common\core\service\RedisService.class
+com\vuebin\common\core\util\ValidateUtil.class
+com\vuebin\common\core\factory\IocBeanFactory.class
+com\vuebin\common\core\util\CheckUtil.class
+com\vuebin\common\core\context\LoginUser.class
+com\vuebin\common\core\properties\JwtProperties.class
+com\vuebin\common\core\aop\ParamValidateAop.class
+com\vuebin\common\core\context\LoginContext.class
+com\vuebin\common\core\exception\GlobalExceptionHandler.class
+com\vuebin\common\core\config\JwtAutoConfiguration.class

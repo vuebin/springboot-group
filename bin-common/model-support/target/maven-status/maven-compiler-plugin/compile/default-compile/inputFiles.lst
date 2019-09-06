@@ -1,0 +1,13 @@
+D:\Program Files\project\binbin\springboot-group\bin-common\model-support\src\main\java\com\vuebin\common\model\api\AuthService.java
+D:\Program Files\project\binbin\springboot-group\bin-common\model-support\src\main\java\com\vuebin\common\model\auth\context\AbstractLoginContext.java
+D:\Program Files\project\binbin\springboot-group\bin-common\model-support\src\main\java\com\vuebin\common\model\exception\enums\CoreExceptionEnum.java
+D:\Program Files\project\binbin\springboot-group\bin-common\model-support\src\main\java\com\vuebin\common\model\exception\AbstractBaseExceptionEnum.java
+D:\Program Files\project\binbin\springboot-group\bin-common\model-support\src\main\java\com\vuebin\common\model\auth\context\LoginUserHolder.java
+D:\Program Files\project\binbin\springboot-group\bin-common\model-support\src\main\java\com\vuebin\common\model\entity\User.java
+D:\Program Files\project\binbin\springboot-group\bin-common\model-support\src\main\java\com\vuebin\common\model\validator\BaseValidatingParam.java
+D:\Program Files\project\binbin\springboot-group\bin-common\model-support\src\main\java\com\vuebin\common\model\constants\RedisContant.java
+D:\Program Files\project\binbin\springboot-group\bin-common\model-support\src\main\java\com\vuebin\common\model\exception\RequestEmptyException.java
+D:\Program Files\project\binbin\springboot-group\bin-common\model-support\src\main\java\com\vuebin\common\model\exception\ServiceException.java
+D:\Program Files\project\binbin\springboot-group\bin-common\model-support\src\main\java\com\vuebin\common\model\constants\AopSortConstant.java
+D:\Program Files\project\binbin\springboot-group\bin-common\model-support\src\main\java\com\vuebin\common\model\system\ResponseData.java
+D:\Program Files\project\binbin\springboot-group\bin-common\model-support\src\main\java\com\vuebin\common\model\auth\AbstractLoginUser.java
